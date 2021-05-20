@@ -2,4 +2,4 @@
 My first template (HTML + CSS)
 
 ## **Project Info**
-** no info yet **
+ no info yet 
